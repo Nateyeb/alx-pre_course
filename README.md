@@ -1,2 +1,2 @@
 My first readme
-I just updated my readme
+Collaboration: be up to date
